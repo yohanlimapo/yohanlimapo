@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohanlimapo
 - 👀 I’m interested in find IT professionals and learn more about tech
-- 🌱 I’m currently learning UX/UI .NET ASP Classic and PL/SQL
+- 🌱 I’m currently testing everything I see
 - 📫 How to reach me linkedin.com/in/yohanlimapo
 
  <div>
