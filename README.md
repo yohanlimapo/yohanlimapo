@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yohanlimapo
-- 👀 I’m interested in find IT professionals and learn more about tech
+- 👀 I’m interested in become a QA Analyst
 - 🌱 I’m currently testing everything I see
 - 📫 How to reach me linkedin.com/in/yohanlimapo
 
