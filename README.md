@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yohanlimapo
+- 👋 Hi, I’m Yohan, but you can call me as Peregrino
 - 👀 I’m interested in become a QA Analyst
 - 🌱 I’m currently testing everything I see
 - 📫 How to reach me linkedin.com/in/yohanlimapo
