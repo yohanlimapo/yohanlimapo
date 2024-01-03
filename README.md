@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Yohan, but you can call me as Peregrino
 - 👀 I’m interested in become a QA Analyst
 - 🌱 I’m currently testing everything I see
-- 📫 How to reach me linkedin.com/in/yohanlimapo
+- 📫 How to reach me: https://www.linkedin.com/in/yohanlimapo
 
  <div>
-  <a href="https://github.com/yohanlimapo/">
+  <a href="https://github.com/yohanlimapo/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohanlimapo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanlimapo)](https://github.com/yohanlimapo/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanlimapo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
