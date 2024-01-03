@@ -4,7 +4,7 @@
 - 📫 How to reach me linkedin.com/in/yohanlimapo
 
  <div>
-  <a href="https://github.com/yohanlimapo/github-readme-stats">
+  <a href="https://github.com/yohanlimapo/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohanlimapo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanlimapo)](https://github.com/yohanlimapo/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanlimapo&layout=compact&langs_count=7&theme=tokyonight"/>
