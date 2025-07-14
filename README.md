@@ -1,9 +1,6 @@
 Oi, Yohan aqui!
 Mas pode me chamar de Peregrino.
 
-Interessado em ser Analista QA / Tester.
-Porém ser programador C#, tbm me interessa muito!
-
 Segue meu LinkedIk: https://www.linkedin.com/in/yohanlimapo
 
   <div> 
